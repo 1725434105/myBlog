@@ -4,7 +4,7 @@
   后台采用 koa
   打包工具 webpack
 
-  先将项目clone下来，然后 cd MYBLOG/
+  先将项目clone下来，然后 cd myblog/
   然后执行 npm install
   然后执行 npm run dev
 
