@@ -19,8 +19,10 @@
   "author": "Propan",
   "license": "ISC",
   "dependencies": {
+    "antd": "^3.9.3",
     "object-assign": "^4.1.1",
     "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
     "react-redux-router": "0.0.14",
     "react-router": "^4.3.1",
